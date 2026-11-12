@@ -1,0 +1,2 @@
+Java makes file handling simple. The new file API in Java is easy to use,
+and the file channel lets the program read without blocking the main thread.
