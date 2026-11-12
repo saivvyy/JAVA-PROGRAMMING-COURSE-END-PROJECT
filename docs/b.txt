@@ -1,0 +1,2 @@
+A map stores words and counts. The tree map keeps the words sorted,
+and the lambda filter keeps only the words that show up often in the file.
